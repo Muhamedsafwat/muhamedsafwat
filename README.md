@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhamed</h1>
-<h3 align="center">Junior Frontend developer interested in building smooth and responsive user interfaces. Passionate about web development using HTML, CSS, JavaScript, React and Nextjs. Always ready to learn new technologies and push myself to get better every day.</h3>
+<h3 align="center">Junior Full-stack web developer interested in building smooth and responsive user interfaces. Passionate about web development using MERN stack & Nextjs. Always ready to learn new technologies and push myself to get better every day.</h3>
 
-- 🌱 I’m currently improving my skills in **Reactjs**
+- 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **html, css, reactjs**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **musafwat666@gmail.com**
 
