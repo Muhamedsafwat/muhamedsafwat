@@ -45,7 +45,6 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/muhamedsafwat/github-readme-stats"><img alt="Safwats's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhamedsafwat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&custom_title=Muhamed%20Safwat's%20Github%20Stats" /></a>
 
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Unlock+the+secrets+of+my+code+vault+🗝️+💻;+Dive+in+and+explore+🌊;Thanks+for+visiting!+❤️">
 
