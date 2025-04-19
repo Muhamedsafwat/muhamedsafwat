@@ -18,8 +18,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Languages and Tools :
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,figma,postman,html,css,js,ts,next,express,nodejs,react,tailwind" />
-    ><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+    <br>
+     <img src="https://skillicons.dev/icons?i=mongodb,html,css,js,ts,next,express,nodejs,react,tailwind" />
 </div>
 
 ## 🤝 Connect With Me:
