@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **CTO at CodeX Solutions 💻**.
+- 🔭 I’m currently working as a **Software director Byteforce Business Solutions 💻**.
 - 🌱 I’m studying **Computer Engineering (CSE-ZU)**
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/muhamedsafwat?tab=repositories)** .
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/muhamedsafwat?tab=repositories)** .
 - 📫 How to reach me [My Gmail](mailto:musafwat666@gmail.com).
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedsafwat&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedsafwat" /> </p>
 
